@@ -1,6 +1,6 @@
 # pics
 
-A new Flutter project.
+A Demo Flutter project using http and consuming a json api to display images to the user.
 
 ## Getting Started
 
